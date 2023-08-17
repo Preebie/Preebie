@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preebie
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning about VGANs
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me: 832-732-2539
 
